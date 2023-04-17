@@ -1,0 +1,26 @@
+from Cavalo import Cavalo
+
+
+cavalo01 = Cavalo(10, "Adilson", "rosa")
+cavalo02 = Cavalo(11, "Claudiney", "magenta")
+cavalo03 = Cavalo(12, "Lindomar", "fúcsia")
+
+cavalo01.mover()
+cavalo02.mover()
+cavalo03.mover()
+print("------------------")
+cavalo01.mover()
+cavalo02.mover()
+cavalo03.mover()
+print("------------------")
+cavalo01.mover()
+cavalo02.mover()
+cavalo03.mover()
+print("------------------")
+cavalo01.mover()
+cavalo02.mover()
+cavalo03.mover()
+print("------------------")
+cavalo01.mover()
+cavalo02.mover()
+cavalo03.mover()
